@@ -1,0 +1,7 @@
+#Files that will be not tracked by Git
+application/config/database.php
+
+#codeigniter 3
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
