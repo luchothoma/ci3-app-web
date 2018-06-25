@@ -46,6 +46,7 @@ class Auth extends CI_Controller {
 			//$this->data['js_files'][] = "jquery.dataTables/Responsive-2.2.0/js/responsive.bootstrap.min.js";
 			$this->data['js_files'][] = "admin_panel/table.js";
 			//$this->_render_page('auth/index', $this->data);
+			
 			$this->panel('auth/index', $this->data);
 		}
 	}

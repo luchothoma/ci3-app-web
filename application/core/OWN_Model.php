@@ -68,7 +68,7 @@
  *
  **/
 
-class MY_Model extends CI_Model
+class OWN_Model extends CI_Model
 {
 
     /**
