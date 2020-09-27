@@ -11,3 +11,11 @@ A generic web app for CodeIgniter to start fast !
  - Login & Basic Admin Panel (functions and template)
 
 	>  **luchothoma@gmail.com** for suggestions or fixs.
+
+The only SQL needed to startup the project is this one:
+
+SqlServer: https://github.com/benedmunds/CodeIgniter-Ion-Auth/blob/3/sql/ion_auth.mssql.sql
+Postgres: https://github.com/benedmunds/CodeIgniter-Ion-Auth/blob/3/sql/ion_auth.postgre.sql
+MySql: https://github.com/benedmunds/CodeIgniter-Ion-Auth/blob/3/sql/ion_auth.sql
+
+For all of them the default login user is: email-> admin@admin.com | password-> password
